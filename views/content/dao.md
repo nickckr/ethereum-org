@@ -289,7 +289,7 @@ Once the minimum amount of time has passed, anyone can execute the transaction [
 ```
 !!!include(solidity/dao-time-lock-multisig.sol)!!!
 ```
-
+i
 #### Deployment and usage
 
 Deploy that code as you have done before on these tutorials. On the deployment parameters, leaving the minimum time blank will default to 30 minutes, if you want faster lock times, then put 1 minute. After uploading, execute the functions "Add Members" to add new members of your group, they can be either other people you know or accounts on different computers or stored offline.
